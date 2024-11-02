@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "be0dfb45-2d06-48dc-9dd3-9d3cd69661a2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 83.82 17.78)
+		(size 58.42 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2ad1d489-a24a-4eb6-a15e-3b5b04fd3ac2")
+		(property "Sheetname" "Audio"
+			(at 83.82 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "audio.kicad_sch"
+			(at 83.82 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esphome-dot"
+				(path "/be0dfb45-2d06-48dc-9dd3-9d3cd69661a2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 17.78)
+		(size 55.88 45.72)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3e6eada5-33b3-4db0-accf-20c8315c26ea")
+		(property "Sheetname" "MCU"
+			(at 17.78 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 17.78 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esphome-dot"
+				(path "/be0dfb45-2d06-48dc-9dd3-9d3cd69661a2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 87.63)
+		(size 55.88 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c5ffa41a-5cbb-401f-888d-7bebed514ed7")
+		(property "Sheetname" "Power"
+			(at 30.48 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 30.48 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esphome-dot"
+				(path "/be0dfb45-2d06-48dc-9dd3-9d3cd69661a2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
