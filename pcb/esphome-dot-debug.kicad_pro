@@ -458,7 +458,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esphome-dot.kicad_pro",
+    "filename": "esphome-dot-debug.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -536,15 +536,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+20V": "Power",
-      "+3V3": "Power",
-      "/Power/LX": "Power",
-      "/Power/SW": "Power",
-      "/Power/VIN": "Power",
-      "GND": "Power",
-      "Net-(D401-A)": "Power"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -694,18 +686,6 @@
     [
       "be0dfb45-2d06-48dc-9dd3-9d3cd69661a2",
       "Root"
-    ],
-    [
-      "3e6eada5-33b3-4db0-accf-20c8315c26ea",
-      "MCU"
-    ],
-    [
-      "2ad1d489-a24a-4eb6-a15e-3b5b04fd3ac2",
-      "Audio"
-    ],
-    [
-      "c5ffa41a-5cbb-401f-888d-7bebed514ed7",
-      "Power"
     ]
   ],
   "text_variables": {}
